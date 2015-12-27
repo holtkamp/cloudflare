@@ -20,10 +20,10 @@ class KeylessSSL extends Zone
 
     /**
      * Create a Keyless SSL configuration (permission needed: #ssl:edit)
-     * @param string      $zone_identifier API item identifier tag
+     * @param string $zone_identifier API item identifier tag
      * @param string      $zone_identifier
      * @param string      $host            The keyless SSL host
-     * @param int         $por2t            The keyless SSL port used to commmunicate between CloudFlare and the client's Keyless SSL server
+     * @param int         $port            The keyless SSL port used to commmunicate between CloudFlare and the client's Keyless SSL server
      * @param string      $name            The keyless SSL name
      * @param string      $certificate     The zone's SSL certificate or SSL certificate and intermediate(s)
      * @param string|null $bundle_method   A ubiquitous bundle is a bundle that has a higher probability of being verified everywhere, even by clients using outdated or unusual trust stores.

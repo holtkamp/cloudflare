@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<checkstyle version="1.3.0">
+  <file name="Zone/Cache.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Analytics.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="20" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/CustomPages.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Api.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="125" severity="error" message="No summary for method permissions()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="149" severity="error" message="No summary for method request()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+    <error line="20" severity="error" message="No summary for property $email" source="phpDocumentor.file.PPC:ERR-50007"/>
+    <error line="21" severity="error" message="No summary for property $auth_key" source="phpDocumentor.file.PPC:ERR-50007"/>
+    <error line="22" severity="error" message="No summary for property $curl_options" source="phpDocumentor.file.PPC:ERR-50007"/>
+    <error line="23" severity="error" message="No summary for property $permissions" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Dns.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="20" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Invites.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Plan.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Organizations/Members.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Billing.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Organizations/Firewall/AccessRules/Rules.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="21" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/WAF/Packages.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="20" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/SSL.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="17" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Billing/Subscriptions/Zones.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="21" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Organizations/Invites.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/WAF/Packages/Groups.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="21" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Railgun.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Firewall/AccessRules.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="20" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Firewall/AccessRules.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="20" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Railguns.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="17" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Organizations/Roles.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Organizations.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="18" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Organizations.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="User/Billing/Subscriptions/Apps.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="21" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/WAF/Packages/Rules.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="21" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="17" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/CustomSSL.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/KeylessSSL.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="32" severity="error" message="The type hint of the argument is incorrect for the type definition of the @param tag with argument $port in create()" source="phpDocumentor.file.PPC:ERR-50016"/>
+    <error line="32" severity="error" message="The type hint of the argument is incorrect for the type definition of the @param tag with argument $name in create()" source="phpDocumentor.file.PPC:ERR-50016"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+  <file name="Zone/Settings.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="19" severity="error" message="No summary for property $permission_level" source="phpDocumentor.file.PPC:ERR-50007"/>
+  </file>
+</checkstyle>
